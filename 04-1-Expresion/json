@@ -1,0 +1,30 @@
+[
+  {
+    "Fec_Resultado": "2023-03-17T00:00:00",
+    "PDF": "6535680-3.pdf",
+    "Nom_Resultado": "QUIMICA",
+    "Num_Expediente": 597964,
+    "Nom_Prof": null
+  },
+  {
+    "Fec_Resultado": "2023-03-17T00:00:00",
+    "PDF": "6535680-2.pdf",
+    "Nom_Resultado": "HEMATOLOGIA",
+    "Num_Expediente": 597964,
+    "Nom_Prof": null
+  },
+  {
+    "Fec_Resultado": "2023-03-17T00:00:00",
+    "PDF": "6535680-1.pdf",
+    "Nom_Resultado": "HEMATOLOGIA",
+    "Num_Expediente": 597964,
+    "Nom_Prof": null
+  },
+  {
+    "Fec_Resultado": "2021-12-06T00:00:00",
+    "PDF": "5958148-1.pdf",
+    "Nom_Resultado": "INMUNOLOGIA",
+    "Num_Expediente": 597964,
+    "Nom_Prof": null
+  }
+]
